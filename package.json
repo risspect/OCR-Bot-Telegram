@@ -1,0 +1,22 @@
+{
+  "name": "ocr-bot",
+  "version": "1.0.0",
+  "description": "OCR bot Telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Risna Fadillah <risnafadillah08@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "ffmpeg": "0.0.4",
+    "node-gyp": "^7.1.0",
+    "node-tesseract": "^0.2.7",
+    "node-tesseract-ocr": "^2.0.0",
+    "rebuild": "^0.1.2",
+    "telegraf": "^3.38.0"
+  }
+}
